@@ -15,7 +15,7 @@ TEMPLATE_VERSATO_ID = "1-8qsZmw-lhK04evJb-5X9UnPcAbaglq9"
 CARTELLA_DRIVE_ID = "19hjBzK9dDx7A9D8fEUSDEsUPW_1O09Js"
 
 # ID del foglio Google con la rubrica (modifica qui!)
-SHEET_ID = "INSERISCI_L_ID_DEL_TUO_FOGLIO"
+SHEET_ID = "https://docs.google.com/spreadsheets/d/1dYPtQg-C3HlZzAMF4IpN0JFCiWeZ1byp973LV2XfraM/edit?usp=sharing"
 SHEET_NAME = "Foglio1"
 
 # ==========================
